@@ -1,2 +1,2 @@
-# WebApps-F22-Assignment-8
+# WebApps-S23-Assignment-8
 A starter repo for doing a request from a nodeJS server
